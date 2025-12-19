@@ -1,2 +1,2 @@
 # prac
-this repositories is made just for practice.
+this repositories is made just for practice..
